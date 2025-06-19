@@ -11,11 +11,6 @@ A simple, fast, and effective **Retrieval-Augmented Generation (RAG)** summarize
 * Generates structured, detailed summaries with high factual retention
 * Clean Gradio UI for easy interaction
 
- Demo
-
-![Demo Screenshot](https://raw.githubusercontent.com/yourusername/rag-text-summarizer/main/demo.png)
-👉 Upload long text → Click "Index Text" → Ask: “Summarize key concepts”
-
  Tech Stack
 
 * `sentence-transformers` – For embedding the text chunks
@@ -39,9 +34,9 @@ A simple, fast, and effective **Retrieval-Augmented Generation (RAG)** summarize
 
  To-Do / Future Improvements
 
-* [ ] Export summary as PDF or `.txt`
-* [ ] Switch to Long-T5 or GPT-4 via API
-* [ ] Add support for live URL/article scraping
+*  Export summary as PDF or `.txt`
+*  Switch to Long-T5 or GPT-4 via API
+*  Add support for live URL/article scraping
 
 
  Contributing
